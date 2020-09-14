@@ -1,0 +1,15 @@
+Instance steak
+
+Attributes
+
+type (fillet mignon)
+weight (1.2)
+cooked (rare)
+is_it_vegan (false)
+
+Methods
+
+add_protein (adds `steak` as the protein for the current order)
+check_weight (prints "This steak is {#weight}lbs.")
+add_cooking_instruction (prints "I would like my steak {#rare}.")
+check_vegan (prints "not vegan")
