@@ -1,0 +1,15 @@
+class Protein
+
+Attributes
+
+type (string)
+weight (float)
+cooked (string)
+is_it_vegan (boolean)
+
+Methods
+
+add_protein (modifies attribute `type` by adding a new protein)
+check_weight (modifies attribute `weight` by checking the weight of the chosen protein)
+add_cooking_instruction (modifies attribute `cooked` by printing rare, medium, well done)
+check_vegan (modifies attribute is_it_vegan by printing "yes" or "no" depending on the boolean)
