@@ -2,7 +2,7 @@ Instance steak
 
 Attributes
 
-type (fillet mignon)
+type (filet mignon)
 weight (1.2)
 cooked (rare)
 is_it_vegan (false)

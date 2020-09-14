@@ -1,0 +1,15 @@
+Instance dinnerPlate
+
+Attributes
+
+shape (round)
+weight (1.6)
+color (white)
+material (glass)
+
+Methods
+
+is_it_round (prints "This plate is {#shape}".)
+is_it_heavy (prints "This plate is heavy")
+is_it_red (prints "This plate is not red")
+is_it_glass (prints "This plate is made of glass.")
