@@ -1,0 +1,9 @@
+food = "cake"
+is_delicious = true
+food = "bread"
+num2 = 1
+num7 = 2
+quotient = num7 / num2
+songs = ["A Whole New World", "Back in Black", "Memory"]
+songs.shift
+food.length
