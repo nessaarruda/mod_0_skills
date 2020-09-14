@@ -1,0 +1,15 @@
+class Plates
+
+Attributes
+
+shape (string)
+weight (float)
+color (string)
+material (string)
+
+Methods
+
+is_it_round (modifies the attribute `shape` by checking if the shape is round and printing the result)
+is_it_heavy (modifies the attribute `weight` by checking if the weight is equal or higher than 1.5plb)
+is_it_red (modifies the attribute `color` by checking if the color is red and printing the result)
+is_it_glass (modifies the attribute `material` by checking if the material is glass and printing the result)
