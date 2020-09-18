@@ -1,4 +1,4 @@
-class Plates
+class Plate
 
 Attributes
 
@@ -9,7 +9,7 @@ material (string)
 
 Methods
 
-is_it_round (modifies the attribute `shape` by checking if the shape is round and printing the result)
-is_it_heavy (modifies the attribute `weight` by checking if the weight is equal or higher than 1.5plb)
-is_it_red (modifies the attribute `color` by checking if the color is red and printing the result)
-is_it_glass (modifies the attribute `material` by checking if the material is glass and printing the result)
+check_shape (modifies the attribute `shape` by checking if the shape is round, if it is mark as "lunch plate")
+subtract_weight (modifies the attribute `weight` by subtracting the weight of the plate to return only the weight of the food)
+change_color (modifies the attribute `color` by checking if the color is red if it isn't change the color to red)
+check_material (modifies the attribute `material` by checking if the material is glass, if it is mark as "dinner plate")
